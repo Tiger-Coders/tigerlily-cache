@@ -6,9 +6,9 @@ import (
 	"log"
 	"time"
 
-	r_manager "github.com/ZAF07/tigerlily-e-bakery-cache/redis-cache-manager"
-	// "github.com/ZAF07/tigerlily-e-bakery-cache/rpc"
-	"github.com/ZAF07/tigerlily-e-bakery-inventories/api/rpc"
+	r_manager "github.com/Tiger-Coders/tigerlily-cache/redis-cache-manager"
+	// "github.com/Tiger-Coders/tigerlily-cache/rpc"
+	"github.com/Tiger-Coders/tigerlily-inventories/api/rpc"
 	"github.com/go-redis/redis/v9"
 )
 

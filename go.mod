@@ -1,4 +1,4 @@
-module github.com/ZAF07/tigerlily-e-bakery-cache
+module github.com/Tiger-Coders/tigerlily-cache
 
 go 1.17
 
@@ -8,7 +8,7 @@ require github.com/go-redis/redis/v9 v9.0.0-beta.1
 
 require github.com/stretchr/testify v1.7.0
 
-require github.com/ZAF07/tigerlily-e-bakery-inventories v0.0.0-20220607055318-f3d989e0148a
+require github.com/Tiger-Coders/tigerlily-inventories v0.0.0-20220814075243-eb35f8f3603d
 
 require (
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect

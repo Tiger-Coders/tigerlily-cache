@@ -4,7 +4,7 @@ import (
 	"context"
 
 	// rpc "github.com/ZAF07/tigerlily-e-bakery-cache/rpc"
-	"github.com/ZAF07/tigerlily-e-bakery-inventories/api/rpc"
+	"github.com/Tiger-Coders/tigerlily-inventories/api/rpc"
 )
 
 type Redismanager interface {
